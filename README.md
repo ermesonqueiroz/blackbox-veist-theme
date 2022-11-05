@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/ermesonqueiroz/blackbox-theme-veist/blob/main/icon.png?raw=true" alt="Veist Logo" width="100">
+  <img src="https://github.com/ermesonqueiroz/blackbox-veist-theme/blob/main/icon.png?raw=true" alt="Veist Logo" width="100">
   <br>
   Veist for <a href="https://flathub.org/apps/details/com.raggesilver.BlackBox/">Black Box</a>
   <br>
