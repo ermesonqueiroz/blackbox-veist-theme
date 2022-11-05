@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/ermesonqueiroz/blackbox-veist-theme/blob/main/icon.png?raw=true" alt="Veist Logo" width="100">
   <br>
-  Veist for <a href="https://flathub.org/apps/details/com.raggesilver.BlackBox/">Black Box</a>
+  <a href="https://github.com/guilhermerodz/veist-theme">Veist</a> for <a href="https://flathub.org/apps/details/com.raggesilver.BlackBox/">Black Box</a>
   <br>
 </h1>
 
