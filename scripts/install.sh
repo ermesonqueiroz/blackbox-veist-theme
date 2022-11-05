@@ -1,7 +1,7 @@
 #!/bin/sh
 
 SCHEMES_PATH=/home/$USER/.var/app/com.raggesilver.BlackBox/data/blackbox/schemes/
-SCHEME_FILE_URL=https://raw.githubusercontent.com/ermesonqueiroz/blackbox-veist-theme/main/src/veist.json
+SCHEME_FILE_URL=https://raw.githubusercontent.com/ermesonqueiroz/veist-blackbox-theme/main/src/veist.json
 
 flatpak info com.raggesilver.BlackBox >&- 2>&-
 if [ $? -eq 0 ]; then

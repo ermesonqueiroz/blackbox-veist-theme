@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/ermesonqueiroz/blackbox-veist-theme/blob/main/icon.png?raw=true" alt="Veist Logo" width="100">
+  <img src="https://github.com/ermesonqueiroz/veist-blackbox-theme/blob/main/icon.png?raw=true" alt="Veist Logo" width="100">
   <br>
   <a href="https://github.com/guilhermerodz/veist-theme">Veist</a> for <a href="https://flathub.org/apps/details/com.raggesilver.BlackBox/">Black Box</a>
   <br>
@@ -93,11 +93,11 @@ The color palette is the same from [Vercel](https://vercel.com/docs/beginner-sve
 
 ## Team
 
-It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ermesonqueiroz/blackbox-veist-theme/graphs/contributors).
+It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ermesonqueiroz/veist-blackbox-theme/graphs/contributors).
 
 <table>
   <tr>
-    <th><a href="https://github.com/ermesonqueiroz" target="_blank" rel="noopener noreferrer"><img alt="Ermeson Sampaio" src="https://github.com/ermesonqueiroz.png?size=100""></img></a></th>
+    <th><a href="https://github.com/ermesonqueiroz" target="_blank" rel="noopener noreferrer"><img alt="Ermeson Sampaio" src="https://github.com/ermesonqueiroz.png?size=100"></img></a></th>
   </tr>
 
   <tr>

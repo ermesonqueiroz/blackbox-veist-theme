@@ -3,7 +3,7 @@
 #### Automatic
 
 ```bash
-bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/ermesonqueiroz/blackbox-veist-theme/HEAD/scripts/install.sh)"
+bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/ermesonqueiroz/veist-blackbox-theme/HEAD/scripts/install.sh)"
 ```
 
 #### Manual
